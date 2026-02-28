@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Midnight Talk",
+  "base_artist": "幾田りら",
+  "createdAt": "2026-02-28T13:41:03.281718Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Midnight Talk",
+      "artist": "Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/01_Midnight_Talk_Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Midnight Talk",
+      "artist": "Ikuta Lilas",
+      "has_synced": true,
+      "path": "select/02_Midnight_Talk_Ikuta_Lilas.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Midnight Talk",
+      "artist": "Lilas",
+      "has_synced": true,
+      "path": "select/03_Midnight_Talk_Lilas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Midnight Talk",
+      "artist": "幾田りら",
+      "has_synced": false,
+      "path": "select/pl_01_Midnight_Talk_幾田りら.txt"
+    }
+  ]
+}
